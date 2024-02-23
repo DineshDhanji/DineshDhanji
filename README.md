@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm a student doing Computer Science at FAST NUCES.<br><br>I'm an AI and ML enthusiast. I like contributing to projects, so feel free to reach out if you're interested in collaborating (●'◡'●)</p>
+<p align="left" style="margin-left:10px">I'm a student doing Computer Science at FAST NUCES.<br><br>I'm an AI and ML enthusiast. I like contributing to projects, so feel free to reach out if you're interested in collaborating (●'◡'●)</p>
 
 ###
 
