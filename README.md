@@ -1,29 +1,20 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Dinesh Dhanjee ヾ(•ω•`)o</h2>
-
+<h1 align="left">Hi 👋! My name is Dinesh Dhanjee ヾ(•ω•`)o</h1>
 ###
-
 <img align="right" height="200" src="https://i.pinimg.com/originals/43/49/e5/4349e568c725b47d7fc4b7e7267e02ca.gif"  />
-
 ###
-
 <p align="left">I'm a student doing Computer Science at FAST NUCES.<br><br>I'm an AI and ML enthusiast. I like contributing to projects, so feel free to reach out if you're interested in collaborating (●'◡'●)</p>
-
 ###
-
 <br clear="both">
-
 <h3 align="center">My Stats \(￣︶￣*\))</h3>
-
 ###
-
 <br clear="both">
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=DineshDhanji&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="160" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=DineshDhanji&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="160" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DineshDhanji&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="160" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=DineshDhanji&no-bg=true&theme=darkhub&no-frame=false" height="150" alt="trophy graph"  />
 </div>
 
 ###
