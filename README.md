@@ -1,14 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+<style>
+  body, h2, h3 {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+</style>
+</head>
+<body>
 <br clear="both">
+
 
 <h2 align="left">Hi 👋! My name is Dinesh Dhanjee ヾ(•ω•`)o</h2>
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/43/49/e5/4349e568c725b47d7fc4b7e7267e02ca.gif"  />
+<img align="right" height="200" style="" src="https://i.pinimg.com/originals/43/49/e5/4349e568c725b47d7fc4b7e7267e02ca.gif"  />
 
 ###
 
-<p align="left">I'm a student doing Computer Science at FAST NUCES.<br><br>I'm an AI and ML enthusiast. I like contributing to projects, so feel free to reach out if you're interested in collaborating (●'◡'●)</p>
+<p align="left" style="padding:0px 3px">I'm a student doing Computer Science at FAST NUCES.<br><br>I'm an AI and ML enthusiast. I like contributing to projects, so feel free to reach out if you're interested in collaborating (●'◡'●)</p>
 
 ###
 
@@ -18,10 +36,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=DineshDhanji&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="160" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=DineshDhanji&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DineshDhanji&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="160" alt="languages graph"  />
+<div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center">
+  <img style="margin: 0.2rem"src="https://streak-stats.demolab.com?user=DineshDhanji&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="160" alt="streak graph"  />
+  <img style="margin: 0.2rem"src="https://github-readme-stats.vercel.app/api?username=DineshDhanji&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="160" alt="stats graph"  />
+  <img style="margin: 0.2rem"src="https://github-readme-stats.vercel.app/api/top-langs?username=DineshDhanji&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="160" alt="languages graph"  />
 </div>
 
 ###
@@ -85,9 +103,5 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/DineshDhanji/DineshDhanji/output/snake.svg" alt="Snake animation" />
-
-###
+</body>
+</html>
