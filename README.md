@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="left">Hi 👋! My name is Dinesh Dhanjee ヾ(•ω•`)o</h1>
+<h2 align="left">Hi 👋! My name is Dinesh Dhanjee ヾ(•ω•`)o</h2>
 
 ###
 
@@ -14,17 +14,14 @@
 
 <br clear="both">
 
-<h3 align="center">My Stats \(￣︶￣*\))</h3>
+<h3 align="left">My Stats \(￣︶￣*\))</h3>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=DineshDhanji&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="160" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=DineshDhanji&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="160" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DineshDhanji&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="160" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=DineshDhanji&no-bg=true&theme=darkhub&no-frame=false" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -88,6 +85,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/DineshDhanji/DineshDhanji/output/snake.svg" alt="Snake animation" />
 
