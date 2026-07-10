@@ -1,19 +1,25 @@
 # Hi, I'm Dinesh 👋
-Research Engineer who builds ML systems that understand video — not just what's in a frame, but what's actually happening in it. Python-first, backend-capable, and always curious about the next problem in AI.
-- 🔬 Building VLM-driven video understanding systems — from raw footage to structured, step-by-step reasoning about what's going on in it
-- 🧠 Working with retrieval-augmented pipelines that ground model outputs in real visual context instead of guesswork
-- 🌱 Volunteering as tech lead for [The Bridge of Hopes](https://thebridgeofhopes.com/), a nonprofit building an AI learning platform for kids with special needs
-- ⚡ When I'm not deep in a model, I'm shipping full-stack side projects (Django + React) or tinkering with circuits and digital logic just for fun
+Research Engineer who builds ML systems that understand video — not just what's in a frame, but what's actually happening in it. Python-first, backend-capable, and always curious about the next problem in AI. <br>
+-  🔬 Building VLM-driven video understanding systems — from raw footage to structured, step-by-step reasoning about what's going on in it  <br>
+- 🧠 Working with retrieval-augmented pipelines that ground model outputs in real visual context instead of guesswork <br>
+- 🌱 Volunteering as tech lead for [The Bridge of Hopes](https://thebridgeofhopes.com/), a nonprofit building an AI learning platform for kids with special needs <br>
+- ⚡ When I'm not deep in a model, I'm shipping full-stack side projects (Django + React) or tinkering with circuits and digital logic just for fun <br>
+
+  
 ## 🛠️ Tech I work with
 **AI/ML:** Vision-Language Models, RAG, prompt engineering, video embeddings, object detection
-**Languages:** Python, JavaScript/TypeScript, C/C++
-**Backend:** Django, DRF, FastAPI, PostgreSQL, Redis, Celery
-**Frontend:** React, Vite
-**Tools:** Docker, Nginx, Git, Linux
-## 📊 GitHub Stats
-![](https://streak-stats.demolab.com/?user=DineshDhanji&theme=rose&hide_border=false)
-![](https://github-readme-stats.shion.dev/api?username=DineshDhanji&theme=rose&hide_border=false&include_all_commits=true&count_private=true)
 
+**Languages:** Python, JavaScript/TypeScript, C/C++
+
+**Backend:** Django, DRF, FastAPI, PostgreSQL, Redis, Celery
+
+**Frontend:** React, Vite
+
+**Tools:** Docker, Nginx, Git, Linux
+
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.shion.dev/api?username=DineshDhanji&theme=rose&hide_border=false&include_all_commits=true&count_private=true) ![](https://streak-stats.demolab.com/?user=DineshDhanji&theme=rose&hide_border=false)
 <br/>
 
 <!-- <div align="center">
