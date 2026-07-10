@@ -19,7 +19,10 @@ Research Engineer who builds ML systems that understand video — not just what'
 
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=DineshDhanji&theme=rose&hide_border=false&include_all_commits=true&count_private=true) ![](https://streak-stats.demolab.com/?user=DineshDhanji&theme=rose&hide_border=false)
+<p align="left">
+  <img src="https://github-readme-stats.shion.dev/api?username=DineshDhanji&theme=rose&hide_border=false&include_all_commits=true&count_private=true" height="165" style="margin-right:10px" />
+  <img src="https://streak-stats.demolab.com/?user=DineshDhanji&theme=rose&hide_border=false" height="165" />
+</p>
 <br/>
 
 <!-- <div align="center">
